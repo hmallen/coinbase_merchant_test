@@ -1,1 +1,1 @@
-# coinbase_merchant_test
+# Coinbase Merchant Test
