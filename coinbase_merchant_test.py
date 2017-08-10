@@ -4,6 +4,7 @@ import ConfigParser
 from coinbase.wallet.client import Client
 
 Config = ConfigParser.ConfigParser()
+Config.read('./config.ini')
 
 
 def ConfigSectionMap(section):
